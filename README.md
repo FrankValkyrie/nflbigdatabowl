@@ -61,13 +61,13 @@ As we can see in the previous graphs these features often lead to a positive yar
 **KEY TAKEAWAYS:**
 * The NFL Community will benefit by gaining a better understanding of the game and using this as a framework for future analysis. 
 
-**FILE CONTENTS** 
+**FILE CONTENTS:** 
 * 484_finalProjSrc.py: Python File Source Code
 * ColumnData.docx: Word Document For Column Data
 * Columns.txt: Text Document for Column Data
 * Train.zip: Contains the Train Data Needed; Test Data is encrypted on the kaggle website
 
-**SUBMITTION FILE FORMAT**
+**SUBMITTION FILE FORMAT:**
 
 Submission File For each PlayId, you must predict 199 values that represent its cumulative distribution from -99 to 99 yards gained. The file must have a header and contain all 199 values in the following format:
 
