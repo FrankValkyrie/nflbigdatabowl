@@ -67,6 +67,16 @@ As we can see in the previous graphs these features often lead to a positive yar
 * Columns.txt: Text Document for Column Data
 * Train.zip: Contains the Train Data Needed; Test Data is encrypted on the kaggle website
 
+**Submition File Format**
+Submission File For each PlayId, you must predict 199 values that represent its cumulative distribution from -99 to 99 yards gained. The file must have a header and contain all 199 values in the following format:
+
+PlayId,Yards-99,Yards-98...Yards98,Yards99
+20190905000050,0.0,0.0, ... ,1.0,1.0
+20190905000195,0.0,0.0, ... ,1.0,1.0
+etc...
+
+-Essentially the probability that those amount of yards will be completed
+
 
 
 
