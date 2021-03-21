@@ -1,15 +1,15 @@
 # nflbigdatabowl
 **MISSION:** 
-To be able to predict the number of yards a football team advances on a given rushing play given **49 distinct features** and **500,000 plays** from the NFL. For example, The Patriots have the ball, They're on third down. The quarterback receives the ball and he rushes it. Predict how many yards he advances in the field.
+* To be able to predict the number of yards a football team advances on a given rushing play given **49 distinct features** and **500,000 plays** from the NFL. For example, The Patriots have the ball, They're on third down. The quarterback receives the ball and he rushes it. Predict how many yards he advances in the field.
 
 **PROBLEM:** 
-How to make a model that adequately predicts the number of yards a football team will cover on a live game, given game data such as play, position, player, speed, player height, time snap, etc.
+* How to make a model that adequately predicts the number of yards a football team will cover on a live game, given game data such as play, position, player, speed, player height, time snap, etc.
 
 **SOLUTION:** 
-Use linear regression. It uses a dependent and independent variable using the best fit line to model the data, regression is the best model as the data is not a binary class. 
+* Use linear regression. It uses a dependent and independent variable using the best fit line to model the data, regression is the best model as the data is not a binary class. 
 
 **HOW IT WILL WORK?** 
-Linear Regression in combination with cross validation of the data, which comprises of 49 distinct features and 500K plays from the NFL.
+* Linear Regression in combination with cross validation of the data, which comprises of 49 distinct features and 500K plays from the NFL.
 
 **MORE ON HOW IT WILL WORK?:**
 * Vectorize our non-integer features to enhance the training of the model.
