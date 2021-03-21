@@ -61,6 +61,12 @@ As we can see in the previous graphs these features often lead to a positive yar
 **KEY TAKEAWAYS:**
 * The NFL Community will benefit by gaining a better understanding of the game and using this as a framework for future analysis. 
 
+**FILE CONTENTS** 
+* 484_finalProjSrc.py: Python File Source Code
+* ColumnData.docx: Word Document For Column Data
+* Columns.txt: Text Document for Column Data
+* Train.zip: Contains the Train Data Needed; Test Data is encrypted on the kaggle website
+
 
 
 
