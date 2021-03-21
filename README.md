@@ -13,9 +13,13 @@
 * Train data using cross validation and analyze based on cumulative probability and root mean square error. 
 *Use graph interpretation to better results by adding more weight to features like rushing player, yard line, and distance till first down.  These features will hold more weight than the others. 
 For example:
+
+
 ![image](https://user-images.githubusercontent.com/49461063/111890303-a336c800-89be-11eb-83b2-f113231ab702.png)
 ![image](https://user-images.githubusercontent.com/49461063/111890311-b2b61100-89be-11eb-84c9-63ab51933260.png)
 ![image](https://user-images.githubusercontent.com/49461063/111890320-c497b400-89be-11eb-98ec-affa6af1aded.png)
+
+
 As we can see in the previous graphs these features often lead to a positive yardage gain for majority of the time, where features like team abbreviation would have no effect on the yards gained.
 
 **Key Takeaways**
